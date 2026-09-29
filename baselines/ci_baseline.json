@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "created_at": "2026-09-29T06:58:41+00:00",
+    "full": false,
+    "git_sha": "dd08f63",
+    "label": "CI baseline (ubuntu-latest, promoted from a real full-suite run)",
+    "n_metrics": 22,
+    "prompt_hash": "e0b95481305f",
+    "suite_seconds": 1737.4
+  },
+  "metrics": {
+    "application.completeness_[geval].avg_score": 0.7413613928539612,
+    "application.correctness_[geval].avg_score": 0.8096100439591868,
+    "application.style_[geval].avg_score": 0.6907624082181074,
+    "generator.answer_relevancy.avg_score": 0.9613937533055179,
+    "generator.faithfulness.avg_score": 0.9632225617519736,
+    "ops.cost.budget_pass": true,
+    "ops.cost.cost_per_query_usd": 0.0002575875,
+    "ops.latency.e2e_p95_ms": 47560.04352255067,
+    "ops.latency.slo_e2e_pass": false,
+    "ops.latency.slo_ttft_pass": false,
+    "ops.reliability.error_rate": 0.0,
+    "ops.reliability.success_rate": 100.0,
+    "pipeline.answer_relevancy.avg_score": 0.9105687372988411,
+    "pipeline.contextual_relevancy.avg_score": 0.6223972922502333,
+    "pipeline.faithfulness.avg_score": 0.983298319327731,
+    "retriever.contextual_precision.avg_score": 0.8382352941176471,
+    "retriever.contextual_recall.avg_score": 0.7401960784313725,
+    "safety.leakage.pii_avg_score": 1.0,
+    "safety.leakage.pii_regex_avg_score": 1.0,
+    "safety.leakage.protected_avg_score": 0.9956905600840568,
+    "safety.scope.avg_score": 0.9253489809809161,
+    "safety.toxicity.avg_toxicity": 0.0
+  }
+}
