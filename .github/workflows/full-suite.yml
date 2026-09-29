@@ -4,8 +4,21 @@ name: Full Eval Suite
 # data/uploads/*.pdf from scratch, calls OpenAI for embeddings + generation + LLM-judge
 # scoring), then gates the result with evals.compare against the committed baseline. Real
 # API cost and ~15-20 minutes per run, so it's deliberate-click-only, never on every push.
+#
+# baselines/baseline.json was built locally on Windows (its own Tesseract build, real hardware).
+# A candidate built here runs on a GitHub-hosted Ubuntu VM -- different Tesseract/poppler on the
+# 7 scanned PDFs, different (shared, variable) CPU and network. Comparing the two directly showed
+# large "regressions" (retrieval precision/recall, latency) that were actually just environment
+# differences, not code changes. So CI compares against its OWN baseline, baselines/ci_baseline.json
+# (Ubuntu-built), never the Windows one -- same principle as tuitor_eval/prod keeping baselines
+# separate from the local suite's.
 on:
   workflow_dispatch:
+    inputs:
+      bless_as_baseline:
+        description: "Write this run as the new CI baseline (baselines/ci_baseline.json) instead of comparing against it"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -14,6 +27,13 @@ jobs:
   full-suite:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    # Without this, Python fully buffers stdout when it isn't a real terminal (true of every CI
+    # runner) -- print() output, including run_suite's own "[n/6] ... eval" progress lines, sits
+    # in memory and doesn't reach the log until the buffer fills or the process exits. That made
+    # a genuinely-running job look identically "stuck" to an actually-hung one. This forces every
+    # print() to flush immediately so the log shows real-time progress.
+    env:
+      PYTHONUNBUFFERED: "1"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,21 +56,30 @@ jobs:
       - name: Run full eval suite
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: uv run python -m evals.run_suite
+        run: |
+          if [ "${{ inputs.bless_as_baseline }}" = "true" ]; then
+            uv run python -m evals.run_suite --out baselines/ci_baseline.json --label "CI baseline (ubuntu-latest)"
+          else
+            uv run python -m evals.run_suite
+          fi
 
+      # Skipped when blessing a new baseline -- nothing meaningful to compare it against yet.
       - name: Compare baseline vs candidate
+        if: ${{ inputs.bless_as_baseline != true }}
         shell: bash
         run: |
           set -o pipefail
-          uv run python -m evals.compare | tee -a "$GITHUB_STEP_SUMMARY" compare-report.txt
+          uv run python -m evals.compare --baseline baselines/ci_baseline.json | tee -a "$GITHUB_STEP_SUMMARY" compare-report.txt
 
       - name: Upload run artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: eval-suite-results
+          if-no-files-found: warn
           path: |
             baselines/candidate.json
+            baselines/ci_baseline.json
             reports/*.xlsx
             compare-report.txt
           retention-days: 14
