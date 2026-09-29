@@ -1,0 +1,57 @@
+name: Full Eval Suite
+
+# Manual trigger only -- this runs the COMPLETE evals.run_suite (builds the retriever from
+# data/uploads/*.pdf from scratch, calls OpenAI for embeddings + generation + LLM-judge
+# scoring), then gates the result with evals.compare against the committed baseline. Real
+# API cost and ~15-20 minutes per run, so it's deliberate-click-only, never on every push.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  full-suite:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 7 of the 16 PDFs in data/uploads/ have no text layer (scanned) and need OCR --
+      # including Hindi-language ones, hence the tesseract-ocr-hin language pack.
+      - name: Install OCR system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-hin poppler-utils
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Run full eval suite
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: uv run python -m evals.run_suite
+
+      - name: Compare baseline vs candidate
+        shell: bash
+        run: |
+          set -o pipefail
+          uv run python -m evals.compare | tee -a "$GITHUB_STEP_SUMMARY"
+
+      # candidate.json and the .xlsx report are gitignored (regenerated each run), so without
+      # this they'd be thrown away with the runner. always() keeps them even on a FAIL/REVIEW.
+      - name: Upload run artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-suite-results
+          path: |
+            baselines/candidate.json
+            reports/*.xlsx
+          retention-days: 14
