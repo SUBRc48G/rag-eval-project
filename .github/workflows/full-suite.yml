@@ -42,7 +42,7 @@ jobs:
         shell: bash
         run: |
           set -o pipefail
-          uv run python -m evals.compare | tee -a "$GITHUB_STEP_SUMMARY"
+          uv run python -m evals.compare | tee -a "$GITHUB_STEP_SUMMARY" compare-report.txt
 
       - name: Upload run artifacts
         if: always()
@@ -52,4 +52,5 @@ jobs:
           path: |
             baselines/candidate.json
             reports/*.xlsx
+            compare-report.txt
           retention-days: 14
