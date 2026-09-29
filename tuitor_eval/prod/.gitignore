@@ -1,0 +1,4 @@
+# keep the private settings file, and the recordings of the live app, out of any git commit
+.env.prod
+answers/
+screens/

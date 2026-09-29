@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "created_at": "2026-09-26T13:40:35+00:00",
+    "full": false,
+    "git_sha": "unknown",
+    "label": "baseline: study PDFs, top_k=2",
+    "n_metrics": 22,
+    "prompt_hash": "e0b95481305f",
+    "suite_seconds": 684.5
+  },
+  "metrics": {
+    "application.completeness_[geval].avg_score": 0.6822819439838845,
+    "application.correctness_[geval].avg_score": 0.8345444657666771,
+    "application.style_[geval].avg_score": 0.6055666194465956,
+    "generator.answer_relevancy.avg_score": 0.9431690858161446,
+    "generator.faithfulness.avg_score": 0.9645053475935828,
+    "ops.cost.budget_pass": true,
+    "ops.cost.cost_per_query_usd": 0.00025938750000000004,
+    "ops.latency.e2e_p95_ms": 4143.107764999149,
+    "ops.latency.slo_e2e_pass": false,
+    "ops.latency.slo_ttft_pass": false,
+    "ops.reliability.error_rate": 0.0,
+    "ops.reliability.success_rate": 100.0,
+    "pipeline.answer_relevancy.avg_score": 0.9202020202020202,
+    "pipeline.contextual_relevancy.avg_score": 0.4768664342193752,
+    "pipeline.faithfulness.avg_score": 0.9555435577494402,
+    "retriever.contextual_precision.avg_score": 0.9264705882352942,
+    "retriever.contextual_recall.avg_score": 0.9607843137254903,
+    "safety.leakage.pii_avg_score": 1.0,
+    "safety.leakage.pii_regex_avg_score": 1.0,
+    "safety.leakage.protected_avg_score": 0.978197768497336,
+    "safety.scope.avg_score": 0.9404231806059886,
+    "safety.toxicity.avg_toxicity": 0.0
+  }
+}

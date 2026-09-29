@@ -1,0 +1,665 @@
+[
+  {
+    "id": "t00",
+    "query": "What are the different types of motion?",
+    "ideal_context": [
+      "9. The motion in which a part of a body moves to and fro in a definite style, while the rest\nof the body remains at rest is called vibratory motion.\n\n10. A motion that repeats itself at regular intervals of time is known as periodic motion.\n\n11. A motion which is a combination of two or more types of motion is called multiple\nmotion.\n\n12. The motion in which there is simultaneous occurrence of both rotational and\ntranslational motion is called rolling motion.",
+      "6. The motion in which every point on the moving body moves through the same distance\nin the same interval of time is called translatory motion.\n\n7. When a body moves about a fixed point or axis without changing its position, the body\nis said to have a rotatory motion.\n\n8. A motion in which a body as a whole moves to and fro about its mean position is called\noscillatory motion.",
+      "Motion of a rolling cricket ball on the ground\nFig. 2.10 Non-periodic motion\n\nPhysics? _ Force and Pressure: Motion\n\n7. Complex or Multiple Motion\nA motion which is a combination of two\nor more types of motion is called multiple\n\n(a) A boy riding a bicycle (b) Wheels of a moving vehicle\n\n(c) Movements of the parts of a sewing machine\nFig. 2.11 Multiple motion"
+    ],
+    "ground_truth": "Motion can be translatory (rectilinear or curvilinear), rotatory, oscillatory, vibratory, periodic, non-periodic, random, and multiple motion.",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf"
+    ],
+    "distances": [
+      0.503,
+      0.585,
+      0.676
+    ],
+    "searched_all_pdfs": true
+  },
+  {
+    "id": "t01",
+    "query": "What is the difference between periodic and non-periodic motion?",
+    "ideal_context": [
+      "(b) Motion of a mass suspended by a string\nFig. 2.9 Periodic motion\n\n6. Non-periodic Motion\nA motion which does not repeat itself\nafter a fixed interval of time is called non-\n\nMotion of our lungs during breathing,\nmotion of a rolling cricket ball on the\nground, swinging of our arms or legs as we\nwalk, motion of the wheels of a moving car\nwhen brakes are applied are repetitive, but\nnot periodic.\n\nFig. 2.8 Motion of the strings of a guitar is\nvibratory motion\n\n5. Periodic Motion",
+      "Fig. 2.8 Motion of the strings of a guitar is\nvibratory motion\n\n5. Periodic Motion\n\nAny motion that repeats itself at regular\nintervals of time is known as periodic\nmotion. For example, motion of a\npendulum, motion of a planet around\nthe sun, motion of a mass suspended by a\nstring or spring, motion of the strings in the\nstringed instruments, the motion of a swing,\netc, are periodic,\n\nMotion of a rolling cricket ball on the ground\nFig. 2.10 Non-periodic motion",
+      "9. The motion in which a part of a body moves to and fro in a definite style, while the rest\nof the body remains at rest is called vibratory motion.\n\n10. A motion that repeats itself at regular intervals of time is known as periodic motion.\n\n11. A motion which is a combination of two or more types of motion is called multiple\nmotion.\n\n12. The motion in which there is simultaneous occurrence of both rotational and\ntranslational motion is called rolling motion."
+    ],
+    "ground_truth": "Periodic motion repeats itself after a fixed interval of time, while non-periodic motion does not repeat after a fixed interval.",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf"
+    ],
+    "distances": [
+      0.717,
+      0.765,
+      0.937
+    ],
+    "searched_all_pdfs": true
+  },
+  {
+    "id": "t03",
+    "query": "What role did Emperor Constantine play in the spread of Christianity?",
+    "ideal_context": [
+      "lt was name d \nConstantinople in \nhonour of Emper or \nConstantine and it \nwould endure as the \nChristian capital for \n1,000 years. A statue of Emperor \nConstantine-he made \nChristianity a legal religion . Toward s the end of the 4th century \nChristia nity became the official religi \nof the Roman empire. St Peter's Basu· \n(now in Vatican City) became the religi \nheadqua rters of the Christi an world.",
+      "j \nBetween Jesus and Hamm urabi, w hom do you ! support? Explain. ~ \" ,.. 1 \n~ .. ,;! . ~- i ............................... _,_.,,._ .................................................................................. · \nConstantine defeated all his rivals and \nestablished himself as the undisputed empe ror \nof a unified Roman empi re. He declared himself \na Christian . The \ncapital was shifted \nfrom Rome to \nConstantinop le , \nthe siteoftheancien t \ncity of Byzantium \n(see map on page \n19).",
+      "i@Mi,5M ,_,, \nFor almost 300 years after the dealh of Jesus, \nChristian s were a religious minority within the \nRoman empir e, oppressed and persecuted by \ntheir imperial mas ters. ln 313 CE, the statu s of \nChristianity changed dramatically . The Roman \nemperor, Constan tine, won a major battle \nagain st his rival, i\\laxentiu s. He attribute d \n."
+    ],
+    "ground_truth": "Constantine won a major battle against his rival Maxentius, attributed the victory to Jesus's divine inspiration, made Christianity a legal religion, and later Christianity became the official religion of the Roman empire under his rule. He shifted the capital to Constantinople.",
+    "source_pdfs": [
+      "History_Rise_of_Christianity.pdf"
+    ],
+    "distances": [
+      0.595,
+      0.649,
+      0.701
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t04",
+    "query": "What were the Crusades and why did they happen?",
+    "ideal_context": [
+      "Earlier, they had captun \nJerusalem, which was a part of the holy Ian \nof the Christians . The Pope appeal ed to a \nChristians to join the Crusad es or the holywar \nagainst the Turks to recover the ir holy land. _.., \nBetween the 11th and 13th centuries CE, th { \nChristians led eight military expedition\\ \nagainst the Turks .",
+      ".............. , ................................. , \n~ Thud~ (l 189-92 a) was an attempt 1 \n· b)! Europe-an leaders to reconquer the holy land j \n~1.) from Saladin (the sultan of Egypt and / \n· Syria}. who had taken it from the Christians during i \nthe Arst ~ ' j \nt Richard 1 (Rkhatd the Uonheart) of England and I \nI. Philp I ol france ended their conflict to lead the i \nnat Crusade They were joined by the Holy Roman l \n. ~ fredetick I (also known as Frederick f \n81rbrirossa).",
+      "The Cru sades faifo \\ \nto achieve their main objecti ve, but thei j \nbrought about several signifi cant changes ir I \nmedieval Euro pe: \\ \n• In the course of their travels to the hol) I \nland, the Crusaders came in conta ct wit£ l \nthe superior civilization s and culturei ~ \nof the Greeks and the Turks. The~ l \nassimilat ed the best elements of these 1 \ncultur es and started the process of _th' I \nrevival of Western education and learnwi· ~ \npaving the way for the Renaissance ."
+    ],
+    "ground_truth": "The Crusades were military expeditions led by Christians against the Turks between the 11th and 13th centuries CE, launched after the Pope appealed to Christians to recover the holy land (including Jerusalem) that had been captured by the Muslim Turks.",
+    "source_pdfs": [
+      "History-Spread of christianity.pdf"
+    ],
+    "distances": [
+      0.527,
+      1.031,
+      1.032
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t05",
+    "query": "What is the difference between monks and nuns in medieval monasteries?",
+    "ideal_context": [
+      "The women who followed \nthe same path were known as nuns. They lived \nin separate monasteries known as nunneries \nor convents . The life of a nun was devoted to \nprayer and service of the poor, the sick and the \nopp~ed. Nuns, too, could not marry. Life in the monasteries was simple and orderly. Monks and nuns had to follow a very rigid code \nC \nbrought under cultivation and made produ \nArchitecture, mural painting, woodCarvin (ti \nstained glass pain~g developed and flo~ \nin the monastenes.",
+      "Priests had to live among the people. Some of \nthe more pious priests , however, chose to live \nin remote, isolated places, far away from human \nhabitation. They lived there as hermits and \nwere known as monks. These monks became \nimportant members of medieval society, and \nthe places where they lived came to be known as \nmonasteries . Monks did not marry; they devoted \ntheir entire lives to spiritual matters and to the -\nservice of humanity.",
+      "The monks also pursued the \nart s and learning in all kin ds of subjects. \nThe mona steries became great centres of \nscholarship, art , literature and religious \nstudies. Majestic churches were built in every \ntown and city."
+    ],
+    "ground_truth": "Monks were men who lived in monasteries devoted to spiritual matters and service to humanity; nuns were women who followed the same path but lived in separate monasteries known as nunneries or convents, devoted to prayer and service of the poor, sick, and oppressed. Neither could marry.",
+    "source_pdfs": [
+      "History-Spread of christianity.pdf"
+    ],
+    "distances": [
+      0.49,
+      0.714,
+      1.104
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t06",
+    "query": "How was Jesus sentenced to death and why?",
+    "ideal_context": [
+      "Jesus's stren gth of character , intelligence, \nwisdom, compassion and simplicity attracted \nlarge crowds wherever he went. This greatly \nenraged the Jewish religious leaders who felt \nthreatened by his gro wing popularity. They \nturn ed hostile and convinced Pontiu s Pilate, \nthe Roma n governor, that Jesus was a threat to \n· the political autho rity of the Romans . Jesus was p ut on trial and sentenced to dea th. He was nailed to a cross and crucified.",
+      "Jesus was p ut on trial and sentenced to dea th. He was nailed to a cross and crucified. He \ndied a slow and painful death, firm in the \nbelief that through suffering, he had fulfilled \nhis mission as the Messiah or Saviour. .,- -,J,i·¢12·M ►M 1 1H¥J ········ r,:7,;l · \n. ~ \nPalestine, but far beyond its boundaries. His \nlife and teachings impacted the then known \ncivilized world in an extraordinary and \nrevolutionary manner.",
+      "i@Mi,5M ,_,, \nFor almost 300 years after the dealh of Jesus, \nChristian s were a religious minority within the \nRoman empir e, oppressed and persecuted by \ntheir imperial mas ters. ln 313 CE, the statu s of \nChristianity changed dramatically . The Roman \nemperor, Constan tine, won a major battle \nagain st his rival, i\\laxentiu s. He attribute d \n."
+    ],
+    "ground_truth": "Jesus was put on trial and sentenced to death by the Roman governor Pontius Pilate after Jewish religious leaders turned hostile toward him, feeling threatened by his growing popularity, and convinced Pilate that Jesus was a threat to Roman political authority. He was nailed to a cross and crucified.",
+    "source_pdfs": [
+      "History_Rise_of_Christianity.pdf"
+    ],
+    "distances": [
+      0.36,
+      0.542,
+      1.078
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t07",
+    "query": "What were the main teachings of Jesus?",
+    "ideal_context": [
+      "compassionate, loving and forgiving. He \nbelieved that as childre n of God, we should \nm ould ours elves in the image of God. We • \nshould love our neighbours, includi ng the poor, ► \nthe sinn ers and even our enemies ; we should \nhelp the needy and do good even to those who \nharm us; we should forgive our enemies and \nwin the m over with our love. Since God love_d \nsinners and forgave them, Jesus said that we \nshould do the same.",
+      "Since God love_d \nsinners and forgave them, Jesus said that we \nshould do the same. He completely rejected the \n'eye for an eye an d a tooth for a tooth' prin ciple. of Jesus Christ were recorded in the Gospels \nby four of his disciples- John, Mathew, Mark \nand Luke. The teachings of Jesus were spread \nin Palestine most actively by Peter - the \nfou ndation rock of Christianity-and later by \nPaul, a convert to Christianity.",
+      "that Jesus Christ's \nin the present-day \n[ \n>. .. ·2 \n.? .. .~ \nd ... 0 \n\" ,!:! • true love for o ne's neighbour \nPALESTINE DURING THE TIME OF )ESUS \n',:\" \n'<I \nV) \nI '<J; \n~ \n',:\" \n(!;-\n!-,~(!;-\n' Q \n'<) \n~ \nSAMARIA \nJerusalem \n• \nJUDE A S:rhlehem \ni ~ ~ ~ JC/1 / ~I \n. ....,@i ~ ~ m C+l:,l11i'i&¥1M -t}J!J· · \"··: \nJesus told his followers to love their neighbo urs \nas much as they loved themselves. Discuss how \neasy or difficult it is to follow this advice."
+    ],
+    "ground_truth": "Jesus taught unconditional love for God and true love for one's neighbour, including the poor, sinners, and even enemies. He taught forgiveness and rejected the 'eye for an eye and tooth for a tooth' principle.",
+    "source_pdfs": [
+      "History_Rise_of_Christianity.pdf"
+    ],
+    "distances": [
+      0.607,
+      0.714,
+      0.855
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t08",
+    "query": "Who were Peter and Paul and why do they matter to Christianity?",
+    "ideal_context": [
+      "Paul became \none of the most powerful and enthu siastic \nexponents of Chri stianity. He travelled \nextensively throughou t the Roman empir e, \nprepari ng the grounds that would transform \nChristianity into a world religion in the future. ; HOTS: Do you agree \nl teachings are relevant \n;_ context? that Jesus Christ's \nin the present-day \n[ \n>. .. ·2 \n.? .. .~ \nd ... 0 \n\" ,!:!",
+      "Since God love_d \nsinners and forgave them, Jesus said that we \nshould do the same. He completely rejected the \n'eye for an eye an d a tooth for a tooth' prin ciple. of Jesus Christ were recorded in the Gospels \nby four of his disciples- John, Mathew, Mark \nand Luke. The teachings of Jesus were spread \nin Palestine most actively by Peter - the \nfou ndation rock of Christianity-and later by \nPaul, a convert to Christianity.",
+      "The world would change dramatically and \nthese changes-social, cultural, economic \nand politica l- would bear the imprint of \nChristian doctrines. The life and teachings \n'foe teachi ngs· of Jesus were simpl e, yet \n] \nrevoluti o nary. He established a code of \ncond uct for men and women based on: \n• unconditional love for God \nJesus taught tha t there was one God who was·. compassionate, loving and forgiving."
+    ],
+    "ground_truth": "Peter actively spread the teachings of Jesus in Palestine and is described as the foundation rock of Christianity. Paul was a convert to Christianity who became one of its most powerful and enthusiastic exponents, travelling extensively throughout the Roman empire to prepare the grounds for Christianity to become a world religion.",
+    "source_pdfs": [
+      "History_Rise_of_Christianity.pdf"
+    ],
+    "distances": [
+      0.733,
+      0.792,
+      1.078
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t09",
+    "query": "Did Jesus create entirely new laws that had never existed before?",
+    "ideal_context": [
+      "Discuss how \neasy or difficult it is to follow this advice. Jesus's interpretation of Jewi sh Jaws clas hed \nwith the ideas of the Jewish religio us leaders \nwho followed the scri ptures literall y, an d not \nin spirit. Jesus did not claim that his teachi ngs \nwere original. His mission was not to change \nthe laws but to p ropaga te them accord ing to \nhis understandin g a nd interpretation of the \nJewish scriptur es.",
+      "Jesus g re w up in Nazareth, in no rth ern Palestine \nwhere h e studi ed the Jewish scriptures. He realized \nthat \\ ra diti o n s and practices wh ich violated the \nLaw of Moses we re being followed by certain \nJewi sh re ligio us gro ups such as th e Phar isees. The baptism of Jesus took place when he \nw as abo u t 30 years old. A divine revelation \nconvi nced him Lhat Lhe time had come for him \nLo fulfi.1 his mission.",
+      "Since God love_d \nsinners and forgave them, Jesus said that we \nshould do the same. He completely rejected the \n'eye for an eye an d a tooth for a tooth' prin ciple. of Jesus Christ were recorded in the Gospels \nby four of his disciples- John, Mathew, Mark \nand Luke. The teachings of Jesus were spread \nin Palestine most actively by Peter - the \nfou ndation rock of Christianity-and later by \nPaul, a convert to Christianity."
+    ],
+    "ground_truth": "No — Jesus did not claim his teachings were original. His mission was not to change Jewish laws but to propagate them according to his own understanding and interpretation of Jewish scriptures.",
+    "source_pdfs": [
+      "History_Rise_of_Christianity.pdf"
+    ],
+    "distances": [
+      0.735,
+      1.098,
+      1.114
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t10",
+    "query": "What are the five layers of the atmosphere in order from the Earth's surface?",
+    "ideal_context": [
+      "occur !l} \n-the trop~sphere due to the presence of - ,...,.. .... ..... .,._-...Q. t' ... ~·.,:.. -- \"\"\" ...... '-I. ,. - • \nwater vapour. \n- ; \n■ .Both temperatu ~e and _pressure . of \nair decr ~a§~ as its density gradually -\nd~~; ea_sesl,. tow:aJ:Q§,bigher.Jgy~J§,..ofJ:he , \ntroposphere. . _,.. \n■ Above the troposphere _ lies the \nstratosphere, extending fro_~ the \ntropopause till about 50 km from the - - - - --\nEarth's ~?-rf! _~e. - ~ Cj _ /2..",
+      "- ~ \nMesosphere \n■ Resting aboy e the stn1tQ~ph~r ~ g!,1-d \nlyin g at ~_height ~ f ,~.rE.~?_O_~m _!~ \n85 km from the Earth's surf acej s_the . . \nlayer of th~ mj ddle p.4_llosphere kncnvn \nas ~e m~ ~~ere. \n• This is the coldest atrnosp_heric_lay_er \nwith the temperahue dipping to \n-90° Celsius _(°CJ. in _SQ!]l~ pfil!§. The \n~ ~er~ tur~ de~reases with height \ntt:!!_ougbo ut this laye!: \n• This layer is of vital_ importance \nbecause mete ors slow _down c1nd b.!!!J).",
+      "-........ .. \ncommunicati.oll. This layer is thus \nknow 11 as ionospher_eA ~ ~ - /2... \n■ As there are relatively few molecules \nand atoms in the thermosp,her ~ even \nabso ~ ing small amounts of sQ).ar \nenergy can significantly increase \ntb,e air tern;peratrn:er, making the \n~ermosphere the,.h_o!!.,est layer i!}_Jh~ . . . \natmosphere. .:.. · ~ · , · · - -· : . 1 \\ \n------ - ...... --- -~ ~ ..... t'-o , • \\ • , \\ ' \nExosphere _...... 0 0 . ' ·:. • · \n~-.. ...."
+    ],
+    "ground_truth": "From the Earth's surface outward: Troposphere, Stratosphere, Mesosphere, Thermosphere, and Exosphere.",
+    "source_pdfs": [
+      "Geography_atmosphere.pdf"
+    ],
+    "distances": [
+      0.793,
+      0.901,
+      0.949
+    ],
+    "searched_all_pdfs": false,
+    "required_terms": [
+      "troposphere",
+      "stratosphere",
+      "mesosphere",
+      "thermosphere",
+      "exosphere"
+    ],
+    "missing_terms": []
+  },
+  {
+    "id": "t11",
+    "query": "Why is the stratosphere ideal for flying aircraft?",
+    "ideal_context": [
+      "_~e. - ~ Cj _ /2.. \n■ This layer of the atmosphere_provides \nideal flying conditions for aircraft. \nThis is because the absence_ Qf_w9 t~ \n~ . -- ~ \nX9,pour makes this layer __ fre~_ from. \nweafu.er disturbanc..e.s._ H ence, no \nturbulence can be felt. --~\"' - ~.",
+      "_d /I I II ft..»\".) Ct-,'\\.~ \nmont s. ~ no c t~v-.:::::-· \n■ This layer .. c~utain~~~:.t.!1_E:, .~ }S.,- ~~ \nbreathe. It also has almos.Lal] tbe~du§t \nStratosphere C.ci .... ~ t~ ~ 1 ~ c-::.. -\n· l 5 h C'- 1-6 p ci ~ ACV--.) I \n.Rill\"!i~s-_and water . '{,m2.QU,Jr present \nin the atmosphere. All ,$.ba!l8':~ t~~ \nweather conditions involving clouds, \nrain, -;now, _J qg , ~~ \n0 \n'it9rm, . occur !l} \n-the trop~sphere due to the presence of - ,...,.. .... ..... .,._-...Q. t' ... ~·.,:..",
+      "weafu.er disturbanc..e.s._ H ence, no \nturbulence can be felt. --~\"' - ~. -- ~ \n■ Iro.s .~ay~r pf th~ _,aµ;rJ.9sp}lere acts as \na blanket protecting the Earth from ) \nextreme · heat du7°ing -~~; -~~-.) t ·also .j ''\\ \\ \n,- Within the stratosphere lies a layer \nthat has rich concentration of ozone - ---- - - - =- ~ - -\nand is kn~ ~s o~o!'o~ph~r~ Ozone \nis vitaif or our survivfl]."
+    ],
+    "ground_truth": "The stratosphere is free from water vapour, so there is no turbulence or weather disturbance, making it ideal flying conditions for aircraft.",
+    "source_pdfs": [
+      "Geography_atmosphere.pdf"
+    ],
+    "distances": [
+      0.829,
+      1.03,
+      1.081
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t12",
+    "query": "What is the greenhouse effect and is it always harmful?",
+    "ideal_context": [
+      "At night, the E a-;~diates ~ ~ the \nheat, much of wlili:ll,_i~ s-9.~~e_d_ b.y \nthe atmosphere. ~G-;~nhouse gases \n(GHGs) such ~ carbon dioxide and \nwater vapour, trap the terrestrial \nhea t and ~us maintain an optimum \ntemperature for all living beings. \n- -\nSUN \n3. Meteors burn up in th~ atrnos \nbefore they can hit the Earth-;;;-z~ \n- ~ a(: \nGREENHOUSE EFFECT ANO~ \nGLOBAL WARMING \nAs you already know, the rays of the S \nheat up the Earth's surface during : \nday.",
+      "The Earth cools at night b~ releas· e ~ g the heat in the fo.~~ \nradiation. Som e _of this heat is absorbed \nby the ~H~_s_ qf th_f_atroos.phere ~ \n~oe~ -~ot __ es_cape into the outer s~ \nThis _p_revents the Earth from becoll1lng \nexc~ ~ively cold at night. This is kn~ \n~ greenhouse effect. \nfig . 2.3: the greenhouse effect \nct a e m \n- h h ground are preclpltc.tfon ; The proc(•<;~ In which the liquid and solld wat er particles that fall from clouds and reac t e on \n\" nown a~ precipltat1on.",
+      "I \nOver the years the heat-trapping gases \ncalled GHGs have increased in the \natmosphere, thus making the ~ t \n_»::armer... In addition to carbon dioxide \ncarbon monoxi de a.tid-...w..a~~ \nthese gase ~..a ind.udame.~ti:o.us \noxide _ and ozone. Ther e_.4t.e._.als_o.__s..9m.e \nh,uman- ;wade GH~ s1u:h___as CFCs -ana \nhalons, whiduiestwy the oz0:Re laye1r-afld \na~ -calJeq_~~ -Deplet yi_g_S,,ubs.ta.nces \n(OJ25)~ A high concentration of GHGs \nand ODS tra _Q.§ the heat radiated from \n..."
+    ],
+    "ground_truth": "The greenhouse effect is when greenhouse gases in the atmosphere absorb terrestrial heat radiated back by the Earth at night, preventing the Earth from becoming excessively cold. It is a natural process that maintains an optimum temperature for living beings — it becomes harmful only when GHG concentrations increase excessively, causing global warming.",
+    "source_pdfs": [
+      "Geography_atmosphere.pdf"
+    ],
+    "distances": [
+      0.7,
+      0.706,
+      1.033
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t13",
+    "query": "What is the coldest layer of the atmosphere?",
+    "ideal_context": [
+      "- ~ \nMesosphere \n■ Resting aboy e the stn1tQ~ph~r ~ g!,1-d \nlyin g at ~_height ~ f ,~.rE.~?_O_~m _!~ \n85 km from the Earth's surf acej s_the . . \nlayer of th~ mj ddle p.4_llosphere kncnvn \nas ~e m~ ~~ere. \n• This is the coldest atrnosp_heric_lay_er \nwith the temperahue dipping to \n-90° Celsius _(°CJ. in _SQ!]l~ pfil!§. The \n~ ~er~ tur~ de~reases with height \ntt:!!_ougbo ut this laye!: \n• This layer is of vital_ importance \nbecause mete ors slow _down c1nd b.!!!J).",
+      "• The mesopause marks the boundary \nbetween ,!!-te mesos12here an.cl tbe \nthem,osphere, wh~Jh.e ~o_sphen_c \n~n~eratur e re(lches.i~poin t. \nThermosphere (~onosph4ne) \n• This la.yer exten ds to a height of \naround 6~ su..rface of \nthe Earth. \n• 1he tenw~ tc!.h!re increase§ with height \n~s this J ayer absorbs variQ\\l§J v:ee~ of \nsolar radiations.",
+      "up due to friction and frictional heat \n(above \nthe poles) \n~ \n~ Q,, \n~ \n0 \n~ \n~ \nm:r~ ~ ~ \nCl:: \n••• \n~ \n' \n~ \n(I'} \n0 \n~ ~ ~ \nrnrnm ~ · \nf,.. \n~ \n~ . 1~ ~ · ~ \n..t1-J'l\"91!!1! I ~ \n. C!U!l!ill ' ::c -~ ! rJ) \n· 0 \n~ \n, 0 \nI ~ \n· ~ \nwhen they enter the mesosphere_.. Fig. 2.2: structure of the atmosphere \n10000 lr.rn ~ \n,, I \n50 km \nI \n../ \n16 km. \n(above !tJe \nEquatoJ) \np a m m ."
+    ],
+    "ground_truth": "The mesosphere is the coldest atmospheric layer, with temperatures dipping to -90°C in some parts.",
+    "source_pdfs": [
+      "Geography_atmosphere.pdf"
+    ],
+    "distances": [
+      0.639,
+      0.834,
+      1.034
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t14",
+    "query": "Is the ozone layer located in the troposphere?",
+    "ideal_context": [
+      "■ draw and label the \nstructure of the \natmosphere. ■ comprehend how layers \nof the atmosphere \nsustain life. ■ understand the \nmeaning of and causes \nbehind the greenhou se \neffect. ■ discuss the causes of \nand solutions for global \nwarming. ■ analyse the challenges \nfaced because of the \ndepletion of the ozone \nlayer. The atmosphere with its layer of gases make the Earth unique among all \nthe other planets of the solar system. , ■nmii!W ■ \n■ Where is the ozone layer located?",
+      ", ■nmii!W ■ \n■ Where is the ozone layer located? During Reading Visual Mapping \nAtmosphere \nComposrbon of \nthe atmospt,\"\"r\" \nE \nNitrogen \nOxygen \nOther gases \nStructure of the atmosphere Greenhouse ga~ and \nEkOs! here Thermt sphere M.,~f phere Stratot phere r::!:::~e\n01\n810\nE =~~\n8 \nDepletion of ..... Ozone layer ....., I .",
+      "the surface of the Earth. Refer to Fig. \n2.2 as we read about the layers of the \natmosphere. \nTroposphere \n■ The lowest layer of the atmosphe _re is \n~~n as.the .troposphere. \n-. -· ■ TI.le J-.biclmes~ _Q.( this layer _ is not ..... ..-\n!!!lif..o~ITIJ as its ..ltRP..eI-Jjmit i~ g):)~ \n(16 k,!!l) above ~~§s_uatortha~9y _,e \n-~ ~ JU?Q_les_(8 km). _\\__.., .. _ · \n■ The upper limit . yf ~ the_ trop Q5ph!re \ni s marked by the tropopause, where \ntemp eratur e stops decre ¥~~!¢ \n. height. _ \n- ."
+    ],
+    "ground_truth": "No — the ozone layer is located in the stratosphere, not the troposphere.",
+    "source_pdfs": [
+      "Geography_atmosphere.pdf"
+    ],
+    "distances": [
+      0.913,
+      0.916,
+      1.03
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t15",
+    "query": "How many times did Mahmud of Ghazni invade India and over how many years?",
+    "ideal_context": [
+      "Mahmud's raids exposed the weaknesses of the northern states and paved the way for the\nconquest of India. The empire of Ghazni disintegrated rapidly after Mahmud's death, and for about\n150 years India was free from foreign attacks.",
+      "Two\nimportant states established by the Turks were Ghazni and Ghor.\n2. Mahmud of Ghazni\nSultan Mahmud of Ghazni was a powerful and ambitious ruler. He invaded India 17 times in the\ncourse of 25 years (1001–25 CE). He wanted to build a large and well-equipped army to expand his\nkingdom and also to protect it from his enemies in Central Asia. To fulfil his aims, he needed money\n— and the fabulous riches of the temples of north India attracted him.",
+      "11. Exercises\nA. Fill in the Blanks\n 1. Mahmud of Ghazni invaded India _______ times in the course of _______ years.\n2. Mahmud's raids exposed the _______ of the northern states and paved the way for the _______\nof India.\n3. Qutbuddin Aibak took control of Muhammad Ghori's _______ possessions and laid the\nfoundation of the _______.\n4. Iltutmish defeated the Rajput rulers of _______ and brought the whole of northern India up to\nthe river _______ under his control.\n5."
+    ],
+    "ground_truth": "Mahmud of Ghazni invaded India 17 times over the course of 25 years (1001-25 CE).",
+    "source_pdfs": [
+      "Turkish_Invasion_Delhi_Sultanate_Notes.pdf"
+    ],
+    "distances": [
+      0.661,
+      0.745,
+      0.79
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t16",
+    "query": "Who is considered the true founder of the Delhi Sultanate and why?",
+    "ideal_context": [
+      "Iltutmish\npolitely refused to give him shelter, and by doing so, saved India from the threat of a Mongol\ninvasion. After getting rid of his external enemies, Iltutmish set about consolidating and stabilizing his kingdom. Iltutmish is regarded as the true founder of the Delhi Sultanate; he transformed the loosely-knit\nterritories in India into a strong, well-defined, compact state. Iltutmish completed the Qutb Minar and also built his own tomb in Delhi.",
+      "Iltutmish completed the Qutb Minar and also built his own tomb in Delhi. Learned scholars from\nvarious parts of Asia found refuge in his court. He was the first to mint gold and silver coins, and\norganized the revenue departments of the Sultanate. The Sultanate was divided into several\nprovinces called iqtas. Each iqta was administered by an officer or noble called the iqtadar. The Caliph of Baghdad recognized Iltutmish as the sovereign of India.",
+      "A temple at\nSomnath was among the most famous. Some provincial governors rose in revolt against her. Razia tried to crush the revolt but was\ndefeated and imprisoned. She won over her captor, Altunia, by marrying him, and tried to recover\nher throne, but her attempt failed — both she and Altunia were killed in 1240 CE. Discuss\nWho, according to you, was the real founder of the Delhi Sultanate — Qutbuddin Aibak or Iltutmish? Give reasons for your answer."
+    ],
+    "ground_truth": "Iltutmish is regarded as the true founder of the Delhi Sultanate because he transformed the loosely-knit territories in India into a strong, well-defined, compact state, and consolidated and stabilized the kingdom after dealing with external and internal threats.",
+    "source_pdfs": [
+      "Turkish_Invasion_Delhi_Sultanate_Notes.pdf"
+    ],
+    "distances": [
+      0.222,
+      0.506,
+      0.63
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t17",
+    "query": "What happened to Razia Sultan and why did her nobles oppose her?",
+    "ideal_context": [
+      "Balban died in 1286 CE. His four successors were weak and incompetent. Four years after his\ndeath, the Delhi Sultanate passed into the hands of the Khilji dynasty.\nValues and Life Skills\nBoth men and women should be given equal opportunities to learn and grow. There should be no\ngender bias. Razia Sultan had all the qualities of a great monarch, but the nobles did not like the idea\nof being ruled by a woman, and she was eventually overthrown.",
+      "7. Razia Sultan\nIltutmish nominated his daughter Razia as his successor. His nobles did not like the idea of being\nruled by a woman. So Razia had to prove her qualities of a great monarch. She dressed like a man,\ntransacted business in the open durbar, and rode horses and led the armies into battle. The welfare\nof her subjects was her primary duty. Later, most of Mahmud's attacks were directed towards the temple towns of north India. A temple at\nSomnath was among the most famous.",
+      "If you were a noble in the court of\nRazia Sultan, what would you have done?\nSecurity and stability replaced lawlessness and disorder."
+    ],
+    "ground_truth": "Razia Sultan's nobles did not like being ruled by a woman. Some provincial governors revolted against her; she was defeated and imprisoned. She married her captor Altunia and tried to recover her throne, but both she and Altunia were killed in 1240 CE.",
+    "source_pdfs": [
+      "Turkish_Invasion_Delhi_Sultanate_Notes.pdf"
+    ],
+    "distances": [
+      0.774,
+      0.774,
+      0.858
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t18",
+    "query": "Was Qutbuddin Aibak related to Muhammad Ghori by blood?",
+    "ideal_context": [
+      "5. Qutbuddin Aibak\nMuhammad Ghori's most trusted general and former slave, Qutbuddin Aibak, was made governor of\nDelhi by Ghori. On Muhammad Ghori's death, Qutbuddin Aibak assumed control of Ghori's Indian\npossessions and declared himself the first Sultan of Delhi. He founded the Delhi Sultanate, so the\ndynasty is also referred to as the Mamluk or Slave Dynasty. Qutbuddin ruled for about 4 years (1206–10 CE).",
+      "Qutbuddin died in 1210 CE after falling from a horse. 6. Iltutmish\nThough Qutbuddin was succeeded by his son, Qutbuddin's fall from the throne was accidental — he\nwas soon replaced by Iltutmish (1210–36 CE), his capable son-in-law and a capable ruler. He first consolidated his position through shrewd and clever handling of all those who challenged\nhis authority.",
+      "Qutbuddin ruled for about 4 years (1206–10 CE). According to court historians, he was a just ruler\nwho looked after the welfare of his subjects. He broke several ancient temples to collect wealth and\nthe material required to build mosques and other monuments. He was known as Lakhbaksh, or\n'giver of lakhs', because of his generosity."
+    ],
+    "ground_truth": "No — Qutbuddin Aibak was Muhammad Ghori's most trusted general and former slave, not a blood relative. This is why his dynasty is also called the Mamluk or Slave Dynasty.",
+    "source_pdfs": [
+      "Turkish_Invasion_Delhi_Sultanate_Notes.pdf"
+    ],
+    "distances": [
+      0.621,
+      0.952,
+      1.024
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t19",
+    "query": "What is the difference between distance and displacement?",
+    "ideal_context": [
+      "Table 2.1 Difference between Distance\nand Displacement\n\n1. Theactuallength 1. The shortest\nof the path distance covered\ncovered by a by a body ina\nmoving body ina particular direction\n\ntime is called the from one point to\ndistance travelled another is called its\nby the body. displacement.\n\n2. Itisa scalar 2. Itisa vector\nquantity. quantity.\n\n3. Displacement can\nbe both positive and\n\n3. Distance is always\npositive.",
+      "Distance and Displacement\n\nThe actual length of the path covered by\na moving body in a certain interval of\ntime is called the distance travelled by\nthe body. Since it is just the magnitude\nof distance, taken in any direction, it is\n\nSuppose,\nwhile moving from A to B, 5 km from\n\nB to C, 6 km from C to D and 7 km fro,\nD to A. The total length of the path Covered\n\n(a) Total length of path covered",
+      "2. The actual length of the path travelled by a body in a certain interval of time is called\nthe distance. It is a scalar quantity.\n\n3. The shortest distance from the initial to the final position of the body is called its\ndisplacement. It is a vector quantity.\n\n4. The speed of a moving body is the distance travelled by it per unit time. It is a scalar\nquantity.\n\n5. The rate of change of displacement of a body with time is its velocity. It is a vector\nquantity."
+    ],
+    "ground_truth": "Distance is the actual length of the path covered by a moving body — it is always positive and is a scalar quantity. Displacement is the shortest distance between the initial and final position of the body — it is a vector quantity and, unlike distance, can be zero (e.g. if the body returns to its starting point).",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf"
+    ],
+    "distances": [
+      0.419,
+      0.481,
+      0.525
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t20",
+    "query": "What is the difference between speed and velocity?",
+    "ideal_context": [
+      "Hence, Velocity =\nlence, locity Time\n\nVelocity is a vector quantity. Its SI unit\n\nquantity, velocity can be negative. Take\nan example of two cars moving with a\nspeed of 40 km/h, one towards the cast\nand other towards the west. Then velocity\nof one car with respect to the other is\nnegative.\n\nEXTRA FACT)\nSpace rockets are some of the fastest moving\nvehicles which reach speeds of around\n28,000 krrvh as they orbit the earth.",
+      "Total distance travelled\n\nAverage speed = -\nTotal time taken\n\nIts SI unit is m/s.\n\nThe velocity of a moving body is the rate\nof change of its position with time in a\nparticular direction. In other words, the\ndisplacement of a moving body per unit\ntime is called the velocity of the body.\n\nHence, Velocity =\nlence, locity Time\n\nVelocity is a vector quantity. Its SI unit",
+      "2. The actual length of the path travelled by a body in a certain interval of time is called\nthe distance. It is a scalar quantity.\n\n3. The shortest distance from the initial to the final position of the body is called its\ndisplacement. It is a vector quantity.\n\n4. The speed of a moving body is the distance travelled by it per unit time. It is a scalar\nquantity.\n\n5. The rate of change of displacement of a body with time is its velocity. It is a vector\nquantity."
+    ],
+    "ground_truth": "Speed is the distance travelled by a body per unit time and is a scalar quantity that can never be negative. Velocity is the displacement of a body per unit time in a given direction and is a vector quantity that can be negative.",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf"
+    ],
+    "distances": [
+      0.67,
+      0.677,
+      0.716
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t21",
+    "query": "What is the difference between an oscillation and a vibration?",
+    "ideal_context": [
+      "of the body always remains fixed js cally\nvibratory motion. sequn\nIt is important to note the difference\nbetween an oscillation and a vibration, Ih\nan oscillation, the whole body moves td\nand fro along a definite path. In vibration\non the other hand, a certain part or Part,\nof the body always remain fixed anq &\nnot move while the rest of the body moves\nto and fro in a definite style.",
+      "You will find that the stone is executing to\nand fro motion, i.e, oscillatory motion.\n\n4, Vibratory Motion\n\n‘A motion in which a part of a body Moy It should be noted that all periodic motions\nto and fro in a definite style while the tee need not be oscillatory but all oscillatory\nSt motions are periodic.",
+      "vi. One oscillation: One complete to and\nfro movement of a pendulum about\nits mean position is known as one\noscillation or vibration. The movement\nfrom O to A, then from A to B and back\nto O constitutes one oscillation.\n\nvii. Amplitude: During an_ oscillation\nthe maximum displacement of the\npendulum from its mean position is\ncalled its amplitude. OA and OB are the\namplitudes of the simple pendulum."
+    ],
+    "ground_truth": "In an oscillation, the whole body moves to and fro along a definite path. In a vibration, a certain part of the body remains fixed while the rest of the body moves to and fro in a definite style — for example, when a guitar string is plucked, only the string moves while the guitar itself stays stationary.",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf"
+    ],
+    "distances": [
+      0.405,
+      0.652,
+      0.662
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t22",
+    "query": "In what two ways can a force be applied to a body?",
+    "ideal_context": [
+      "ii. Ifa ball is pushed, it starts rolling, that is,\nthe ball starts to roll by a push.\n\nSI Units : newton (N)\n\nCGS unit: dyne\n\n1 N = 10° dyne\n\nOther units : kgf, gf\n\nForce can be applied on a body in two\n\nBy touching the body (contact force).\n\nExamples: push, pull, squeeze, stretch,\n\nExamples: Attraction or repulsion\nbetween bodies by magnets and electric\ncharge; gravitation force.\n\nUnits:\n\nForce is a vector quantity.\n\nEXTRA FACT",
+      "Units:\n\nForce is a vector quantity.\n\nEXTRA FACT\n\nWhen you push a wall, a force of equal\nmagnitude but in opposite direction is applied\nby the wall on you! But you cannot move the\nwall because the force applied by the rest of\nthe building on the wall is greater and keeps\nit in the same position.\n\nWeight\n\nThis physical quantity is also a kind of force.\nIn everyday life, we use the term weight\ninstead of mass, but in physics, mass and\nweight have different meanings.",
+      "Force and Pressure: Motion\n\nPoint on the rotating body moves through a\ndifferent distance. For example, a spinning\nwheel (charkha), a spinning top, a potter's\nwheel, the motion of the blades of a fan,\nthe motion of the second’s hand in a clock,\n\nEXTRA FACT)\n\nWhen a roller Coaster travels through a loop,\na special kind of force called ‘centripetal\nforce’ keeps the people pinned to their seats.\n\n@erty ge att\nFig. 26 Rvasury moun\n\n3. Oscillatory Motion"
+    ],
+    "ground_truth": "A force can be applied either by touching the body — a contact force, such as a push, pull, squeeze, stretch, or friction — or without touching it, from a distance — a non-contact force, such as magnetic or electric attraction/repulsion, or gravitational force.",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf"
+    ],
+    "distances": [
+      0.765,
+      0.836,
+      0.984
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t23",
+    "query": "What is the formula for weight, and why does an object's weight vary from place to place on Earth?",
+    "ideal_context": [
+      "Variation in Weight of a Body\nThe weight of a body is not the same at\n\nis maximum at the poles and minimum at\nthe equator, ie., the value of acceleration\ndue to gravity is maximum at the poles and\nminimum at the equator. Thus, we see that\nthe weight of a body depends on the value\nof ‘g:",
+      "It is the force exerted by the earth towards\nits centre. It is called the force of gravity. It is also called the weight of an object. The\nacceleration (change in velocity per unit\ntime) of the stone is called acceleration due\nto gravity which is usually denoted by the\nletter “g’\n\nVariation in Weight of a Body\nThe weight of a body is not the same at",
+      "The force with which the earth attracts\na body is called its weight. The SI unit\n\njs newton (N). Weight ig als,\nmeasured in kilogram-force (kgf). 1 °\nthe force with which one kilogram mag, 7\nattracted by the earth.\n\nIt has been found that 1 kgf = 10N\n\nThe weight of a body is equal to the Produc,\nthe acceleration due tq\n\nWhere ‘m is the mass of the object and ‘’ jg\nthe acceleration due to gravity.\n\nLet us perform the following experiment to\nunderstand the meaning of weight.\n\n[ EXPERIMENT@3 |"
+    ],
+    "ground_truth": "Weight is given by W = mg, the product of an object's mass and the acceleration due to gravity (g). It varies from place to place because g itself varies with location — it is maximum at the poles and minimum at the equator, since the Earth's gravitational pull isn't the same everywhere.",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf"
+    ],
+    "distances": [
+      0.62,
+      0.695,
+      0.747
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t24",
+    "query": "What book did Isaac Newton publish in 1687, and what did it contain?",
+    "ideal_context": [
+      "Force and Pressure: Motion\n\nKnow your SCIENTIST\n\nSir Isaac Newton, an English physicist and\nmathematician, is famous for his laws\nof motion and the ‘apple falling down’\nepisode. Newton formulated the basic laws\nof gravitation which are now considered\nuniversal. He published a book titled\n“Principia Mathematicia™ in 1687 in which\nhe summarised many of his original ideas in\nmathematics and physics, including the laws\nof motion and the theory of gravitation.\n\n5",
+      "/all of these\n\n8\nPhysics 7\n\n| Force and Pressure: Motion\n\n—_\n\n9. Weight of a body—\na, remains the same everywhere on the Earth b. will be the same on the moon\n\nFill in the blanks:\n1. A book lying on a table is in a state of _ Hon.\n\nAll oscillatory motions are farugadic __ .\nThe value of acceleration due to gravity is _ 4 “oy mi ncat the poles.\nAn apple falling from a tree is an example of — Nardarr motion.\nDisplacement is a ean quantity.",
+      "Rest and Motion\n\nIf we look around us, we see many things\nwhich are either at rest or moving. For\nexample, houses, trees, electric poles, stone,\n\nNewton\n(1643—1727)\n\ntable, chair, a book lying on a table are said\nto be at rest. On the other hand, people\nwalking, birds flying, insects crawling,\nrain drops falling are in motion. No, every object around us\nis either at rest or in motion,\n\nEXTRA FACT )\nEvery object resists chan;\nOr motion; this is called"
+    ],
+    "ground_truth": "Newton published 'Principia Mathematica' in 1687, in which he summarised many of his original ideas in mathematics and physics, including the laws of motion and the theory of gravitation.",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf"
+    ],
+    "distances": [
+      0.722,
+      1.167,
+      1.253
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t25",
+    "query": "Who first observed and named 'cells', and what did he examine to see them?",
+    "ideal_context": [
+      "In 1660, \n--- devck:,pcJ a compound microscope which was \nup of two lenses. I 1c used this microscope to sec \nbee of a dc:a<l C<Jtk. J n trus slice, he observed some \nCOmb., like tu ructurcs and named them \"cells\" (Fig. 3.1). \nf ig. 3.1: Honeycomb like \nstructure of cell",
+      "all compartment. Thus, it hlch means sm w¾ \nTht! word cd l is derived from a Latin word, cellttlcJ, w \nRobert Hnoke who first discovered and 11amed ccJJ. \nCELL THEORY \"in the next two centuries. In 18 . , pcs wok place d'ffj• ~nt P , f . ,r, l\\,Iuch advttnccmcnt in development of mJcrosco . .. to observe 1 ere arts o a pl . d n1croscopc • . a~ German scientist, Matthias Jakob Schlc1dcn use 1 ·ll Another, German sc1ent1st, The d , tJ' of cc s.",
+      "Mir:roscope is a device used to see \n~as 111Jt 1i1ible to naked ~es. It was Antonie van Leeuwenhoek \n1612-1723), wh<, first developed a simple microscope which \n• made up of a iting)c biconvex lens. He used it to see the \nblood cells in me capmarics of a frog's foot. He identified \nlhmi as living uni,,., of living beings. \nlobcn Hooke (1635--1703), an English scientist, coined \ntbe term \n11\nCcll\" to explain the basic unit of life."
+    ],
+    "ground_truth": "Robert Hooke first discovered and named 'cells' — while examining a thin slice of cork under a microscope, he observed comb-like structures resembling a honeycomb and called them cells.",
+    "source_pdfs": [
+      "Science_The Cell.pdf"
+    ],
+    "distances": [
+      0.686,
+      0.966,
+      1.013
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t26",
+    "query": "What are the basic features of modern cell theory?",
+    "ideal_context": [
+      "how usco !llJ t\\fter fifty r<..'tlrS, n G erman scientist, Rudolf ar u:c ' \nnew cells. . f dern cell theory states th \nOn the basis o f these remar kable findings, the basic features O mo at \nI. . \\ll Ih-ing things are made up of one or more cells. . . . \n2. Cells arc the basic structural and functional unit s of all livmg bein gs .. \n~ All ll · . . · · and metabolic processes. J.",
+      "~ All ll · . . · · and metabolic processes. J. ce s are basically the same 111 che011cal compos1t1on \n-t All new cells arise by the division of pre-existing cells. \nNUMBER, SHAPE AND SIZE OF THE CELL \nCells diffe r gre atly in their shap e (Fig. 3.2), size, and numb er. Some living organisms such as A,,.,. C \nare composed of ~cell and are called uni&@ ular organisms . Large organisms such as elep~.A \nhuman, tree, ere. are composed of millions of cells and are called multicellular organisms.",
+      "The bo<ly of all the living things is made \nup of very small, microscopic unit called cell. <;ell is the structural and functional unit of life.. A cell \nUOO(..-rgoes rcpc.,-atcd divisjon to give rise to an organism. Each cell performs a specialized \nfunction m the body. Like, the cells of the retina of human eye convert the light striking on it \ninto clectric ~ignals that are relayed to the brain. These signals are then translated by brain into \nthe images tha t a person secs."
+    ],
+    "ground_truth": "Modern cell theory states that: all living things are made up of one or more cells; cells are the basic structural and functional units of all living beings; all cells are basically the same in chemical composition and metabolic processes; and all new cells arise by the division of pre-existing cells.",
+    "source_pdfs": [
+      "Science_The Cell.pdf"
+    ],
+    "distances": [
+      0.649,
+      0.689,
+      0.742
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t27",
+    "query": "What is the difference between the cell wall and the cell membrane?",
+    "ideal_context": [
+      "Jc i.s nn outcrm<>Hl protective; layer of cd l. ft is a non­\nli,~ng structure. The ceU wall is mndc up of cclluloti<.:, le gives 1,hapc and rigidity co the cell. Cell wall \nallows substances in a solution 10 enter and leave tht.· ccU freely. 'l'hw.i, it i~ a highly pcrmcnhlc layer. \nJt Table 3.3: Differences between cell wall and cell membrane \nCe/I wall Cell membrane \n1. tt ls an outer protective layer of cell. 1. It Is the outer covering of the protoplasm of cell. \n2.",
+      "tt ls an outer protective layer of cell. 1. It Is the outer covering of the protoplasm of cell. \n2. It is a non-living structure . \n3. U is freely permeable layer. \n4. 1t provides rigidity and shape to the cell. \n5. lt is found only In plant and bacteria! cells. \nscience \nGuru \n2. It Is a Jiving structure. \n3. It Is selecti vely permeable layer. \n4. It provides stretch ability to the cell. \n5. It Is found In both animal and plant cells. \nJ f Put1unje (1787-1869) was a Czech physiologist.",
+      "I c ~!lows 011ly \nttruin ~nb:-r.tncrs rn r- nter nnd movt· nut· of the,· cell. I, it-1 lrnowo ns pl~uimH mcmhrnn c in plant \ncells. Tht· plnsmn mcmbrnnc i~ enclosed by an 01.1t c rtno 8l 1wol'ccdvc layer called cell wQIJ, The cell \nm~'tllhr.,ne is elastic and tlrns provides strcrch ability ro rhc cell 1:0 so 11'H: <.:x tenr. \nCeUWaff \n_ .. _ -\nOnJr plant and bacterial cc11s possess cell wall. Jc i.s nn outcrm<>Hl protective; layer of cd l. ft is a non­\nli,~ng structure."
+    ],
+    "ground_truth": "The cell wall is an outer protective, non-living, freely permeable layer that gives the cell rigidity and shape, and is found only in plant and bacterial cells. The cell membrane is the outer covering of the cell's protoplasm — a selectively permeable membrane (called the plasma membrane in plant cells) that allows only certain substances to enter or leave, and is present in both plant and animal cells.",
+    "source_pdfs": [
+      "Science_The Cell.pdf"
+    ],
+    "distances": [
+      0.586,
+      0.715,
+      0.754
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t28",
+    "query": "What is the function of ribosomes in a cell?",
+    "ideal_context": [
+      "Ribosomes (j) (!) - --\nThey are very minute structure~ scattered in cytoplasm or also attached to the surface of \ne~m. They do not possess membr~e. \n1' Function: They help in the synthesis of rroteins. \nMitochondria \nMiwcbonch:ia ~ Mitochondri;yoccur in the f~of small and . ii:i) ~ d \n.strucmres Th.e..x range from few hundreds to a fewTa~ . sphenc ~ ~~ siJJ~ \n, ~ s tn number in the cytoplasm o a ' \nD \nI",
+      "( \nend,J. \nr~ \nDepending on the absence or presence of ribosomes ~ \non the surfa ce of eQdoplas~c reticulum~ they can Rou~: \nbe_s mooth..e..udo12Iasmi~,( rbose witb.nut,_ endo,~ \nribosomes on surfacel or mPgb enq_gplasmic reticulum . reti(ij. \n(those with ribosomes ao rbe surface) (Fig. 315). Fig. 3.6: Endoplasmic reticulum \n*~' It serves as a pathway for the distribution _ \nof mate~ within a cell and between two cells- It also provides internal support to the cell.",
+      "3.8). These cisternae are \nnot connected to each other. They are found in cytoplasm near \nthe nudeus that is next to the endoplasmic reticulum. J.n pl:mt \ncells, golgi bodi es are smaller and are more in number. They are \nalso atlled dictyosomes. Golgi bodies are absent in bacteria , \nceruin algae and mature sperm cells and red blood cells. \nFimctions: Golgi bodies help in secretion of certain hormones, \nenzymes. etc. The y help in the forma tion of cell wall in plant cells."
+    ],
+    "ground_truth": "Ribosomes are tiny, membrane-less structures scattered in the cytoplasm or attached to the surface of the endoplasmic reticulum. Their function is to help in the synthesis of proteins.",
+    "source_pdfs": [
+      "Science_The Cell.pdf"
+    ],
+    "distances": [
+      0.498,
+      0.801,
+      0.931
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t29",
+    "query": "Why are mitochondria called the 'powerhouses' of the cell?",
+    "ideal_context": [
+      "A micochondrion consists of an outer membrane and an inne ;,_ \nme.rnbQJt1'-(F~. 3. 7). The ½:_ner membrane is folded inw~ to \n, furm n finger-like structur e called cdstae ~ 6) \n&_~ns: They help in c~ular respiration . The y oxidi;; food \nY ~ing 0~ aod release cner;s~ he form of Ade nosine \nTri Phosphate (ATP) . Thus , they are also known aseerhouses \n~ \nGolgi Bodies \nThese are rhe membrane bound stacks of thin, flattened, and \nparallel pouches called cisternae (Fig. 3.8).",
+      "Ribosomes (j) (!) - --\nThey are very minute structure~ scattered in cytoplasm or also attached to the surface of \ne~m. They do not possess membr~e. \n1' Function: They help in the synthesis of rroteins. \nMitochondria \nMiwcbonch:ia ~ Mitochondri;yoccur in the f~of small and . ii:i) ~ d \n.strucmres Th.e..x range from few hundreds to a fewTa~ . sphenc ~ ~~ siJJ~ \n, ~ s tn number in the cytoplasm o a ' \nD \nI",
+      ", ...,_ , Cristae \n• \nOuter \nmembrane \nFig. 3.7: Mitochondrion \ne \n0 \nFig. 3.8: Golgi bodies \n,-if-------,- Undigested fat \nGranules \nMembrane \n...___~- --f---V acuole \nt~ i .:-;,-.. ----,,,...-- Hydrolytic \nenzymes \nFig. 3.9: Lysosome \nFig. 3.10: Centrosome"
+    ],
+    "ground_truth": "Mitochondria help in cellular respiration — they oxidise food and release energy in the form of Adenosine Triphosphate (ATP), which is why they are known as the powerhouses of the cell.",
+    "source_pdfs": [
+      "Science_The Cell.pdf"
+    ],
+    "distances": [
+      0.978,
+      1.166,
+      1.206
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t30",
+    "query": "What are the three types of plastids and what does each one do?",
+    "ideal_context": [
+      "3.11: Chlorop/a, \nregions, the grana and the stroma (Fig. 3.1 l) · \n· l ured 2. Chromoplasts: Chro moplasts contain co4-\n. fi d in trruts and p1gm en ts excepc green. The y are oun . . \npetals of flowers. They are responsible for unparttng \ncolours such as red, yellow or orange (Fig. 3.12). \n3. Leucoplasts: Leucoplas ts, lackc3l1.Y Ijfilnent, so they are \n~lourle ss plast;W_J-They help in storing food prepared by \nplants in the form of starch, fats and proteins. Fig. 3.12: Chromoplast!",
+      "I. Chloroplasts: Chloro plasts --'._ontalll al known as \npigment called chlorophyll. They are so rgy of the \nth the solar ene kitchen of the ~e~ as ey ~-ap of fQgd for plant s \nsw1 and convert it mto cherrucal energy . 1 \nr imparting \n. . Th spons1b e i.or dunng photosynthes is. ey are re th lant where \ngreen colour ra leaves aod a~parrs of e. p f two \nth;, are fopnd, Structurally, ~P.last consists o \nFig. 3.11: Chlorop/a, \nregions, the grana and the stroma (Fig. 3.1 l) · \n· l ured 2.",
+      "Plastids A- o Jas!ll in the form of oval, spheri~ \n· -1 ~ . fotJJld if1 cyt P . eats There are three type \nPlastids arc found in pJanr cells only. These are and &or~ pigtn · s Of \nni'-l'-~h1.11\"'\\.-.A 1J .nqfoctureS Gra ~ structure. The orgnne e rorL nurn \nl . . 1 l coplasts. P ast:Jds-dllorop lasts, du-omop asts, eu \nFuncrion loured . green -co \n--...... I. Chloroplasts: Chloro plasts --'._ontalll al known as \npigment called chlorophyll."
+    ],
+    "ground_truth": "Chloroplasts are green-coloured plastids that trap solar energy and convert it into chemical energy (food) for plants. Chromoplasts contain coloured pigments (other than green) and give colour to fruits and flower petals. Leucoplasts are colourless plastids that help store food in the form of starch, fats, and proteins.",
+    "source_pdfs": [
+      "Science_The Cell.pdf"
+    ],
+    "distances": [
+      0.518,
+      0.605,
+      0.765
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t31",
+    "query": "Who was the spiritual head of Christians and where was he based?",
+    "ideal_context": [
+      "St Peter's Basu· \n(now in Vatican City) became the religi \nheadqua rters of the Christi an world. Bishop of St Peter 's Basilica, the Po \nbecame the spiritual head of Christians \nover the world, and was acknowledged as~ \nrepre sentati ve of Christ on earth . !",
+      "lt was name d \nConstantinople in \nhonour of Emper or \nConstantine and it \nwould endure as the \nChristian capital for \n1,000 years. A statue of Emperor \nConstantine-he made \nChristianity a legal religion . Toward s the end of the 4th century \nChristia nity became the official religi \nof the Roman empire. St Peter's Basu· \n(now in Vatican City) became the religi \nheadqua rters of the Christi an world.",
+      "Christianity, leading to its recognition as the official religion of the Roman Empire."
+    ],
+    "ground_truth": "The Pope was the spiritual head of Christians, and he was based in Rome.",
+    "source_pdfs": [
+      "History_Rise_of_Christianity.pdf",
+      "Rise_of_Christianity_Questions_Cleaned.txt.pdf"
+    ],
+    "distances": [
+      0.802,
+      0.997,
+      1.139
+    ],
+    "searched_all_pdfs": true
+  },
+  {
+    "id": "t32",
+    "query": "why sultan ghazni attack india many times??",
+    "ideal_context": [
+      "Mahmud's raids exposed the weaknesses of the northern states and paved the way for the\nconquest of India. The empire of Ghazni disintegrated rapidly after Mahmud's death, and for about\n150 years India was free from foreign attacks.",
+      "Two\nimportant states established by the Turks were Ghazni and Ghor.\n2. Mahmud of Ghazni\nSultan Mahmud of Ghazni was a powerful and ambitious ruler. He invaded India 17 times in the\ncourse of 25 years (1001–25 CE). He wanted to build a large and well-equipped army to expand his\nkingdom and also to protect it from his enemies in Central Asia. To fulfil his aims, he needed money\n— and the fabulous riches of the temples of north India attracted him.",
+      "After\nthree days of fierce fighting, the entire defence force of about 50,000 soldiers lay dead. The\nvictorious Mahmud returned to his capital with immense treasures, including valuable works of art.\nMahmud drained away India's vast treasures and used them to finance further military campaigns in\nCentral Asia. Sultan Mahmud transformed Ghazni into a magnificent capital city adorned with\nsplendid mosques, libraries and a museum, glittering with sparkling pearls, rubies and diamonds."
+    ],
+    "ground_truth": "Mahmud of Ghazni repeatedly invaded India mainly to plunder its wealth and strengthen his kingdom.",
+    "source_pdfs": [
+      "Turkish_Invasion_Delhi_Sultanate_Notes.pdf"
+    ],
+    "distances": [
+      0.67,
+      0.798,
+      0.811
+    ],
+    "searched_all_pdfs": false
+  },
+  {
+    "id": "t35",
+    "query": "Compare the role of ATP in mitochondria with the role of gravity in determining an object's weight.",
+    "ideal_context": [
+      "It is the force exerted by the earth towards\nits centre. It is called the force of gravity. It is also called the weight of an object. The\nacceleration (change in velocity per unit\ntime) of the stone is called acceleration due\nto gravity which is usually denoted by the\nletter “g’\n\nVariation in Weight of a Body\nThe weight of a body is not the same at",
+      ", ...,_ , Cristae \n• \nOuter \nmembrane \nFig. 3.7: Mitochondrion \ne \n0 \nFig. 3.8: Golgi bodies \n,-if-------,- Undigested fat \nGranules \nMembrane \n...___~- --f---V acuole \nt~ i .:-;,-.. ----,,,...-- Hydrolytic \nenzymes \nFig. 3.9: Lysosome \nFig. 3.10: Centrosome",
+      "A micochondrion consists of an outer membrane and an inne ;,_ \nme.rnbQJt1'-(F~. 3. 7). The ½:_ner membrane is folded inw~ to \n, furm n finger-like structur e called cdstae ~ 6) \n&_~ns: They help in c~ular respiration . The y oxidi;; food \nY ~ing 0~ aod release cner;s~ he form of Ade nosine \nTri Phosphate (ATP) . Thus , they are also known aseerhouses \n~ \nGolgi Bodies \nThese are rhe membrane bound stacks of thin, flattened, and \nparallel pouches called cisternae (Fig. 3.8)."
+    ],
+    "ground_truth": "Mitochondria release energy in the form of ATP during cellular respiration. An object's weight is determined by W = mg, so it depends on its mass and the acceleration due to gravity.",
+    "source_pdfs": [
+      "Physics_Force and pressure.pdf",
+      "Science_The Cell.pdf"
+    ],
+    "distances": [
+      1.088,
+      1.256,
+      1.316
+    ],
+    "searched_all_pdfs": false,
+    "required_terms": [
+      "re:\\bATP\\b",
+      "mitochondri",
+      "gravity",
+      "weight"
+    ],
+    "missing_terms": []
+  },
+  {
+    "id": "t36",
+    "query": "How are the ozone layer and the greenhouse effect both connected to the atmosphere, and how do their roles differ?",
+    "ideal_context": [
+      "■ draw and label the \nstructure of the \natmosphere. ■ comprehend how layers \nof the atmosphere \nsustain life. ■ understand the \nmeaning of and causes \nbehind the greenhou se \neffect. ■ discuss the causes of \nand solutions for global \nwarming. ■ analyse the challenges \nfaced because of the \ndepletion of the ozone \nlayer. The atmosphere with its layer of gases make the Earth unique among all \nthe other planets of the solar system. , ■nmii!W ■ \n■ Where is the ozone layer located?",
+      "This is \ncalled sustainable development.-' \nTHE OZONE LAYER AND ITS \nIMPORTANCE \nAnother major environmental cgncem \nis the depletion of the ozone lay~ in the \nstratosphere. , \nOzone (03) is a heat-trapping gas. O~one \nin the stratosphere acts as a s!j.ield, \nstopping the harmful ultraviolet (UV) \nradiation from...reafhing the E,arth.",
+      "At night, the E a-;~diates ~ ~ the \nheat, much of wlili:ll,_i~ s-9.~~e_d_ b.y \nthe atmosphere. ~G-;~nhouse gases \n(GHGs) such ~ carbon dioxide and \nwater vapour, trap the terrestrial \nhea t and ~us maintain an optimum \ntemperature for all living beings. \n- -\nSUN \n3. Meteors burn up in th~ atrnos \nbefore they can hit the Earth-;;;-z~ \n- ~ a(: \nGREENHOUSE EFFECT ANO~ \nGLOBAL WARMING \nAs you already know, the rays of the S \nheat up the Earth's surface during : \nday."
+    ],
+    "ground_truth": "Both are atmospheric topics. The ozone layer is in the stratosphere, while the greenhouse effect occurs when greenhouse gases absorb heat radiated by Earth and help maintain a suitable temperature; excessive greenhouse gases cause global warming.",
+    "source_pdfs": [
+      "Geography_atmosphere.pdf"
+    ],
+    "distances": [
+      0.721,
+      0.783,
+      0.872
+    ],
+    "searched_all_pdfs": false
+  }
+]
