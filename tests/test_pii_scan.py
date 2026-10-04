@@ -30,3 +30,18 @@ def test_year_range_is_not_treated_as_a_phone_number():
     redacted, found = redact_pii(text)
     assert redacted == text
     assert found == []
+
+def test_empty_text_returns_unchanged_with_nothing_found():
+    # redact_pii short-circuits on falsy input instead of running the matchers.
+    assert redact_pii("") == ("", [])
+    assert redact_pii(None) == (None, [])
+
+
+def test_redacts_email_and_phone_together_in_one_text():
+    # e.g. a filled-in worksheet page that has both on it.
+    text = "Name: Riya. Email riya.k@example.com, phone 9876543210."
+    redacted, found = redact_pii(text)
+    assert "riya.k@example.com" not in redacted
+    assert "9876543210" not in redacted
+    assert redacted.count("[redacted]") == 2
+    assert sorted(found) == ["EMAIL_ADDRESS", "PHONE_NUMBER"]
